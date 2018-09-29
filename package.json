@@ -1,0 +1,47 @@
+{
+  "name": "Genie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "mocha server/**/*.test.js",
+    "test-watch": "nodemon --exec 'npm test'"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^1.7.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.1",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "gridfs-stream": "^1.1.1",
+    "initials": "^3.0.0",
+    "joi": "^13.4.0",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "mongoose": "^5.1.6",
+    "nexmo": "^2.3.2",
+    "passport": "^0.4.0",
+    "passport-facebook-token": "^3.3.0",
+    "request": "^2.87.0",
+    "shuffle-array": "^1.0.1",
+    "socket.io": "^2.1.1",
+    "unique-random": "^2.0.0",
+    "validator": "^10.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jest": "^21.17.0",
+    "jest": "^23.4.0",
+    "supertest": "^3.1.0"
+  }
+}

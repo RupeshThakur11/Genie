@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rational-symbol-212010",
+  "private_key_id": "546a7d213dfd04f3d82dc8292d2127db139da761",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/PXw930lWdBrk\nAjNhqUnD63fPoL1Jmoevj4bdVoBYumHFuxpeW7Ge7YnLFwQPoUcCGHYnkzH6tOOG\nMQWa3IZsvdaP/t3ujYI87j8ZwnVgLVMAZNdudgCrgT6+m10dXLY0AoQtL4v/IEhv\n2cpbSXRbt2VyaCOzVozVYJBKNte4lVLfkdkzE32rfD0e3XtmtFWypbz04LB/glFY\nVUYqi4p+ExDQTpP92H7V+JtbDKvb4PfmLP/MCmJFMV5QOgK/yBWRkMhX8Az3Yw+N\nnyT2KtOuRr3bc7SqbQGRRnC9hPUXz8Jcj+jgT/RgK5hzdrTmqANVjhVSffU54cJ7\n7DzpE39bAgMBAAECggEADTdBi8EPf2L8rL8eL+SUDW8LU5TnH9wG/nHrvwYITplq\nwlBgzR6HEtWVjSxlAnOBxbpNCAUbEhlIE/D1UzNkMsWXu1HAooiy9GT+hVgz5lab\ngs51ONP8zd1bqa5w6+OJT+TQn5LGmPXxK5Ggc1iLKv9silB6Dx2vE9vdfNN3avD/\n/zhmXCav7MKbPTEdeJtfKdsjBMeIkhaDvFrIVJWFC8nDhCNVnHLsWUkHVH5NH6J1\n+duIQghf26+eas/hJMMvWrclYI6NdmtyWpnurJYqXLzdXMStzIcIr0a+bBHYP5Fd\nVvUDkX86GTl0QNDm0XyoZiYx1GDiRXyuXaZrkf4sIQKBgQD54wMx+zRVO5AdSc7O\ntDqk6J3N+qvGGc0hqWurBoeJHtWTKNipMCxNNqITUCMl2Yhbxc7TT91RqhKTgFQ3\nfZo1Rmc+kymr9aaXV53DkCZvisZizsJrVM/3HUMTQQr+LL2+Tnytl1fjdyBKwiZ2\nNdAsqs5WOo0+E1Ah4r+3u1uA0QKBgQDD6y6HTqYB3LPE87rslfB2N4CQappbhkLY\nz/M7pl6xFvS5+LHnbJbzt1by5rNlAJ4LSth8jGtcdWQy2X1zuNzBuCuC47KmlxRS\nVjVPntVdlli56yvMvhSUErXGH7RWI49y/p+42paHBXHeYWD/MRIQuorXMndu8qAb\nH/9Jv3QoawKBgQDgViGEOZWd/z8+TAjSIZOUgRFK3oRf8MHsOoFipRYA0CHFX6JD\nIfBj0WxoEkW7sTNt0IQByW1T52+N5GO2/Zf3xCDkWJHMw1iv/gSwkTUwZlH8WsrI\nOPgLTcXt/zKzRc+Cjkv4PCq3FzdyZiLJdT5TG3TqjN5IoGYMRdkARb+8QQKBgFD1\nvLJ5U6xtUXRP66ycgVO4t83133d20eTaef7qTzMK83JuTMX/X5my56FUqElSqfys\nny1IsYzxjchdi7PoboE24/Qgt9CTmfg0W69dSXp1CJE7l0vyOHrACJGoxFLcOwkg\nI0y2N4HwRA/LWdPaqUZ0b69h0Wztoi/TVyFYll2lAoGBAK1hE16ftE1g+SgcccGA\nv+DsKc9rIMkSO5V2y8h6prdjfZ58uouE6/7GLetgxaE5M9V5NtazaPRpFO/Gky9O\n1VQIYHE7drvTCeSG+MYWfXgSUJeKj2o68+i+XPv7fABM6FyAArJKHLR5zCvq8pLo\nzQuobTPnikqOkgumGPpzowza\n-----END PRIVATE KEY-----\n",
+  "client_email": "genie-app@rational-symbol-212010.iam.gserviceaccount.com",
+  "client_id": "101451378403909630669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/genie-app%40rational-symbol-212010.iam.gserviceaccount.com"
+}

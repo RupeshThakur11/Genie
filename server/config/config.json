@@ -1,0 +1,21 @@
+{
+	"test":{
+		"PORT" : 8000,
+		"MONGODB_URI" : "mongodb://localhost:27017/genieapp",
+		"JWT_SECRET" : "qwerty2229220",
+		"ACCOUNT_SECURITY_API_KEY":"Enter key Here",
+		"fbClientId":"Enter key Here",
+	 	"fbClientSecret":"Enter key Here",
+	 	"instaClientId":"Enter key Here"
+	},
+	"development" : {
+		"PORT" : 8000,
+		"MONGODB_URI" : "mongodb://localhost:27017/genieapp",
+		"JWT_SECRET" : "qwerty5959999",
+		"ACCOUNT_SECURITY_API_KEY":"JEnter key Here",
+		"fbClientId":"Enter key Here",
+	 	"fbClientSecret":"Enter key Here",
+	 	"instaClientId":"Enter key Here"
+	}
+}
+
